@@ -1,2 +1,2 @@
 # VerificadorConcursos
- Um verificador de concursos (mudanças em páginas web) usando Java
+ Um verificador de concursos (mudanças em páginas web) usando Java.
