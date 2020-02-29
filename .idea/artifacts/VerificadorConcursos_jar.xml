@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VerificadorConcursos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VerificadorConcursos_jar</output-path>
+    <root id="archive" name="VerificadorConcursos.jar">
+      <element id="module-output" name="VerificadorConcursos" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jsoup/jsoup-1.12.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

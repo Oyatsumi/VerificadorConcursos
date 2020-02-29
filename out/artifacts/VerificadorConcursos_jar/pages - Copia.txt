@@ -1,0 +1,36 @@
+//açores
+https://www.uac.pt/pt-pt/emprego-na-uac
+//aveiro
+https://www.ua.pt/sgrhf/PageText.aspx?id=15031
+//beira interior
+http://www.academicos.ubi.pt/Pagina/recrutamento
+//unila
+https://documentos.unila.edu.br/concursos
+//coimbra
+https://www.uc.pt/drh/rm/pconcursais/pessoal_docente/A_decorrer/fct
+//coimbra investigador
+https://www.uc.pt/drh/rm/pconcursais/Investigadores/A_decorrer/FCT
+//évora
+https://www.sadm.uevora.pt/documentos/concursos/(id)/5495/(basenode)/419
+//lisboa
+https://www.ulisboa.pt/node/19575/docentes?field_professional_category_tid_selective=62
+//madeira
+http://urh.uma.pt/index.php?option=com_content&view=section&layout=blog&id=11&Itemid=73&lang=pt
+//nova
+https://www.unl.pt/nova/docentes
+//porto
+https://sigarra.up.pt/up/pt/noticias_geral.lista_noticias?p_grupo_noticias=47
+//utad
+https://www.campus.utad.pt/cdes/Candidatura
+//ciencias lisboa
+https://ciencias.ulisboa.pt/concursos
+//politécnico lisboa
+https://www.ipl.pt/servicos/recursos-humanos/recrutamento
+//politecnico coimbra
+https://www.ipc.pt/pt/o-ipc/recursos-humanos/emprego-publico/procedimentos-concursais/pessoal-docente 
+//politecnico leiria
+https://www.ipleiria.pt/recursos-humanos/concursos/
+//politecnico viseu
+http://www.ipv.pt/rpdocente.htm
+//politecnico santarem
+https://www.ipsantarem.pt/pt/1650-2/concursos-pessoal-docente/
