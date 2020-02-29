@@ -39,7 +39,7 @@ public class Main {
     }
 
     /**
-     *
+     * Read file as string
      * @param path
      * @return
      * @throws IOException
