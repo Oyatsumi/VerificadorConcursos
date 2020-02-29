@@ -98,11 +98,10 @@ public class Main {
         int length = out.length();
         if (length > 200) length = 200;
 
-        String start = "";
-        if (out.length() > 0)
-            start = "First 200 characters: ";
+        if (out.length() > 0) {
+            System.out.println("First 200 characters: " + out.substring(0, length));
+        }
 
-        System.out.println(start + out.substring(0, length));
         return out;
     }
 
