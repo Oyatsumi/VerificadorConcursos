@@ -131,7 +131,8 @@ public class Main {
                 //reads the web page
                 br = new BufferedReader(new InputStreamReader(url.openStream(), "UTF-8"));
             }catch(Exception e){
-                System.out.println("Page not found: " + pages.get(i) + "\r\n \r\n");
+                System.out.println("Page not found: " + pages.get(i));
+                System.out.println();
                 continue;
             }
 
@@ -149,7 +150,8 @@ public class Main {
 
 
             if (compare(n1, n2).length() != 0) {
-                System.out.println("===> " + pages.get(i) + "\r\n \r\n");
+                System.out.println("===> " + pages.get(i));
+                System.out.println();
 
                 bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(filePath), "UTF-8"));
                 bw.write(n2);
